@@ -35,3 +35,12 @@ Requisitos para realizar la integración:
 <div style="text-align: center;" >
 <img src="docs/step3.png" width=800 />
 </div>
+
+
+## Entorno local
+
+Para ejecutar la aplicación local, utilizar el comando `npm`.
+
+```
+npm install && npm start
+```
